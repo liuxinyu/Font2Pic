@@ -1,0 +1,6 @@
+To make a sentence on a picture using certain font. 
+
+1. put fonts in fonts directory
+2. put a background.png file
+3. ruby Font2Pic.rb
+4. Check outputs directory for results
